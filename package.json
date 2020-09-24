@@ -1,0 +1,17 @@
+{
+  "name": "plex-dvr-run",
+  "version": "0.0.0",
+  "description": "Quick start for plex-dvr",
+  "main": "run",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plex"
+  ],
+  "author": "Aki 🌹 <hi@akiro.se>",
+  "license": "ISC",
+  "dependencies": {
+    "plex-dvr": "^0.4.0"
+  }
+}
