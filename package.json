@@ -13,6 +13,6 @@
   "author": "Aki 🌹 <hi@akiro.se>",
   "license": "ISC",
   "dependencies": {
-    "plex-dvr": "^1.0.0"
+    "plex-dvr": "^1.0.1"
   }
 }
