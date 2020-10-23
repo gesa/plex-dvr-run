@@ -10,6 +10,9 @@
   "keywords": [
     "plex"
   ],
+  "files": [
+    "run"
+  ],
   "author": "Aki 🌹 <hi@akiro.se>",
   "license": "ISC",
   "dependencies": {
